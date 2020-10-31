@@ -3,7 +3,7 @@
 ## Description
 COVID-19 has made us exercise social distancing, we need to keep distance
 of around 6ft at all times, this could become an hassle specially during
-buying daily groceries where we are forced to have hand interaction. I thought of what if we could use hand gesture recognition from a safe distance to buy groceries. This motivated us to try and train an
+buying daily groceries where we are forced to have hand interaction; me and  my project partner thought of what if we could use hand gesture recognition from a safe distance to buy groceries. This motivated us to try and train an
 Artificial Intelligence based system that can recognize different hand gestures
 We used OpenCV to capture the input from the webcam and
 then separate the background from the foreground and to detect a hand with
