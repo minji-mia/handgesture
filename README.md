@@ -13,5 +13,17 @@ classification.
 ## Demo
 ![handgesture demo](https://user-images.githubusercontent.com/52568892/97783317-db9b4e00-1b64-11eb-9ae2-663cc7ef1e9f.gif)
 
+## Built with
+
+- [Python 3.7](https://www.python.org/)
+
+- [OpenCV](https://opencv.org)
+
+- [Keras](https://keras.io/api/)
+
+- [Google Cloud Platform(GCP)](https://cloud.google.com/gcp/getting-started)
+
 ## License
-[MIT](https://github.com/minji-mia/handgesture/blob/master/LICENSE)
+
+This project is licensed under the [MIT](https://github.com/minji-mia/handgesture/blob/master/LICENSE) License
+
