@@ -1,5 +1,7 @@
 # Hand Gesture Detection
 
+Application for detecting hand gestures from webcam to order grocery items while social distancing.
+
 ## Description
 COVID-19 has made us exercise social distancing, we need to keep distance
 of around 6ft at all times, this could become an hassle specially during
