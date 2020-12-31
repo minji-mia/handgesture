@@ -2,6 +2,8 @@
 
 Application for detecting hand gestures from webcam to order grocery items while social distancing.
 
+![hand-gesture](https://user-images.githubusercontent.com/52568892/103412175-7e5a5380-4b39-11eb-9009-c7625c2f67cd.png)
+
 ## Description
 COVID-19 has made us exercise social distancing, we need to keep distance
 of around 6ft at all times, this could become an hassle specially during
